@@ -1,0 +1,2 @@
+rootProject.name='htgumur'
+include ':app'
